@@ -1,4 +1,4 @@
-# Part 2: KPI Framework, Business Experiment Analysis & Decision Recommendation
+# Part 2: 
 
 ## Business Context
 A subscription-based digital product company ran an A/B experiment to test a new onboarding and activation campaign. Users were split into Control (existing experience) and Treatment (new campaign). The objective was to improve paid conversion and early engagement.

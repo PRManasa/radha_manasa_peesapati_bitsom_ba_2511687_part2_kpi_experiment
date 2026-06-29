@@ -1,6 +1,6 @@
 # Hypothesis Test Notes
 **Name:** Radha Manasa Peesapati  
-**Date:** June 2026  
+**Date:** 28 June 2026  
 **Experiment:** New Onboarding & Activation Campaign
 
 ---
